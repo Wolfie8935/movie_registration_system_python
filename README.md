@@ -105,10 +105,18 @@ The success of this system hinges on effective collaboration between developers,
 
 
 
-GitHub Links:
+# GitHub Links:
 
 
 1.	Java: https://github.com/Wolfie8935/Movie-Registration-System
 
 
 2.	Python: https://github.com/Wolfie8935/movie_registration_system_python
+
+
+# Colaborators:
+
+<img src="https://github.com/RishaanYadav.png" width="50" height="50" /> [Rishaan Yadav](https://github.com/RishaanYadav)
+<br>
+<img src="https://github.com/Wolfie8935.png" width="50" height="50" /> [Aman Goel](https://github.com/Wolfie8935)
+
