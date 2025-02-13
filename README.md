@@ -114,7 +114,7 @@ The success of this system hinges on effective collaboration between developers,
 2.	Python: https://github.com/Wolfie8935/movie_registration_system_python
 
 
-# Colaborators:
+# Collaborators:
 
 <img src="https://github.com/RishaanYadav.png" width="50" height="50" /> [Rishaan Yadav](https://github.com/RishaanYadav)
 <br>
